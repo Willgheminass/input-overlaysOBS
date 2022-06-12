@@ -1,0 +1,234 @@
+{
+    "default_width": 0,
+    "default_height": 0,
+    "space_h": 0,
+    "space_v": 0,
+    "flags": 8,
+    "overlay_width": 934,
+    "overlay_height": 484,
+    "elements": [
+        {
+            "type": 0,
+            "pos": [
+                0,
+                0
+            ],
+            "id": "texture0",
+            "z_level": 0,
+            "mapping": [
+                30,
+                10,
+                920,
+                470
+            ]
+        },
+        {
+            "type": 1,
+            "pos": [
+                194,
+                14
+            ],
+            "id": "keyboard W",
+            "z_level": 0,
+            "mapping": [
+                990,
+                30,
+                160,
+                160
+            ],
+            "code": 17
+        },
+        {
+            "type": 1,
+            "pos": [
+                14,
+                204
+            ],
+            "id": "keyboard A",
+            "z_level": 0,
+            "mapping": [
+                1180,
+                30,
+                160,
+                160
+            ],
+            "code": 30
+        },
+        {
+            "type": 1,
+            "pos": [
+                194,
+                204
+            ],
+            "id": "keyboard S",
+            "z_level": 0,
+            "mapping": [
+                1370,
+                30,
+                160,
+                160
+            ],
+            "code": 31
+        },
+        {
+            "type": 1,
+            "pos": [
+                374,
+                204
+            ],
+            "id": "keyboard D",
+            "z_level": 0,
+            "mapping": [
+                1560,
+                30,
+                160,
+                160
+            ],
+            "code": 32
+        },
+        {
+            "type": 1,
+            "pos": [
+                374,
+                14
+            ],
+            "id": "keyboard E",
+            "z_level": 0,
+            "mapping": [
+                1750,
+                30,
+                160,
+                160
+            ],
+            "code": 18
+        },
+        {
+            "type": 1,
+            "pos": [
+                14,
+                14
+            ],
+            "id": "keyboard Q",
+            "z_level": 0,
+            "mapping": [
+                1940,
+                30,
+                160,
+                160
+            ],
+            "code": 16
+        },
+        {
+            "type": 1,
+            "pos": [
+                554,
+                204
+            ],
+            "id": "keyboard F",
+            "z_level": 0,
+            "mapping": [
+                2120,
+                250,
+                160,
+                160
+            ],
+            "code": 33
+        },
+        {
+            "type": 1,
+            "pos": [
+                554,
+                14
+            ],
+            "id": "keyboard C",
+            "z_level": 0,
+            "mapping": [
+                2310,
+                250,
+                160,
+                160
+            ],
+            "code": 46
+        },
+        {
+            "type": 1,
+            "pos": [
+                20,
+                401
+            ],
+            "id": "keyboard Space",
+            "z_level": 0,
+            "mapping": [
+                1570,
+                420,
+                540,
+                60
+            ],
+            "code": 57
+        },
+        {
+            "type": 3,
+            "pos": [
+                584,
+                394
+            ],
+            "id": "mouse Left",
+            "z_level": 0,
+            "mapping": [
+                2120,
+                30,
+                160,
+                90
+            ],
+            "code": 1
+        },
+        {
+            "type": 3,
+            "pos": [
+                774,
+                394
+            ],
+            "id": "mouse Right",
+            "z_level": 0,
+            "mapping": [
+                2310,
+                30,
+                160,
+                90
+            ],
+            "code": 2
+        },
+        {
+            "type": 1,
+            "pos": [
+                726,
+                156
+            ],
+            "id": "keyboard G",
+            "z_level": 0,
+            "mapping": [
+                1390,
+                420,
+                160,
+                90
+            ],
+            "code": 34
+        },
+        {
+            "type": 1,
+            "pos": [
+                726,
+                266
+            ],
+            "id": "keyboard Ctrl",
+            "z_level": "0",
+            "mapping": [
+                1210,
+                420,
+                160,
+                90
+            ],
+            "code": 29
+        }
+    ]
+}
